@@ -1,0 +1,11 @@
+.cardCustom {
+  text-align: center;
+  vertical-align: middle;
+  display: inline-block;
+  max-width: 300px;
+  max-width: 300px;
+  min-height: 300px;
+  min-height: 300px;
+  margin: 15px;
+  background-color: azure;
+}
